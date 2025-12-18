@@ -1,3 +1,3 @@
 Clone Repository
-Install Depedencies (npm init playwright @latest)
+Install Depedencies (npm install lalu npm init playwright @latest)
 Run script automation by (npx playwright test)
