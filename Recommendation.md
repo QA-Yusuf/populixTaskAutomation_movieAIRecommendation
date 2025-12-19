@@ -11,3 +11,6 @@ Capture : (https://github.com/QA-Yusuf/populixTaskAutomation_movieAIRecommendati
 Recommendation-003
 Desc : Lebih disejajarkan sinopsis/deskripsi filmnya sehingga semuanya punya ketinggian yang sama
 Capture : (https://github.com/QA-Yusuf/populixTaskAutomation_movieAIRecommendation/blob/6d3780eb8cf3273c97d9eebd0992fce9abe6c774/Recommendation-003.jpg)
+
+Recommendation-004
+Desc : AI dalam mencari rekomendasi film masih butuh response time yang cukup lama, mungkin bisa ditingkatkan response timenya jadi dibawah 3 detik dalam setiap searching
